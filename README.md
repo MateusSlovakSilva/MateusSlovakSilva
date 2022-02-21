@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MateusSlovakSilva
 - 👀 I’m interested in  finding my first job as a programmer
-- 🌱 I’m currently learning  HTML5, CSS3, Java Script, MySQL, Word press.
+- 🌱 I’m currently learning  HTML5, CSS3, Java Script,  Python
 - 📫 How to reach me  mateosslovaksilva@gmail.com
 <!---
 MateusSlovakSilva/MateusSlovakSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub p
