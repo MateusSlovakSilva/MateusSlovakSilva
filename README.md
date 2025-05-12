@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MateusSlovakSilva
+- 👋 Hi, I’m Mateus Slovak
 - 👀 I’m interested in  finding my first job as a programmer
 - 🌱 I’m currently learning  Java, DevOps, Linux, Doker, Kubernetes, cybersecurity.
 - 📫 How to reach me  mateusslovaksilva@gmail.com
